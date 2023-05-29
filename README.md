@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 27.05.2023
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![9A](https://github.com/JEGADEESH07/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497131/7e4c7c83-7fa0-48d3-be3f-b1bf485aad77)
+![9B](https://github.com/JEGADEESH07/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497131/65fbe4af-5de9-46a0-b48c-e0b389f19936)
+![9C](https://github.com/JEGADEESH07/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497131/7cbe2919-89a3-4cec-b6f8-359c0e75f1fe)
 
-### Name:
-### Register Number:
+### Name: Dharmaraj S
+### Register Number: 212222240025
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
